@@ -1,0 +1,10 @@
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\bin\Debug\TAPU1_A3Eventos.exe.config
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\bin\Debug\TAPU1_A3Eventos.exe
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\bin\Debug\TAPU1_A3Eventos.pdb
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.csproj.AssemblyReference.cache
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.Form1.resources
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.Properties.Resources.resources
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.csproj.GenerateResource.cache
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.csproj.CoreCompileInputs.cache
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.exe
+C:\Users\hanni\source\repos\TAPU1_A3Eventos\TAPU1_A3Eventos\obj\Debug\TAPU1_A3Eventos.pdb
